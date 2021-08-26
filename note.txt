@@ -1,0 +1,30 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Aug 20 09:57:33 2021
+
+@author: hoang
+"""
+
+
+menu
+Luu y:Sach chi la thong tin ngau nhien dc tao de dai dien cho so huu cua tai khoan
+
+0. Thoat
+1. Xem csdl
+2. Dang ky
+    Ten Tai Khoan
+    Mat Khau
+    Sach(auto dc tao xong pop up cho ng xem)
+    Gui ma xac thuc ve email(ton tai trong 10s) sua lai salt bo cac ky tu dac biet
+    
+3. Dang nhap
+    Ten TK
+    Mat Khau
+    Nhap Salt
+
+4.
+
+    
+    
+    
+    
